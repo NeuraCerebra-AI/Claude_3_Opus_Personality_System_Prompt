@@ -1,4 +1,4 @@
-# Claude 3 Opus Personality System Prompt
+# Claude 3 Opus Personality System Prompt for Llama 3.1
 
 This repository presents a meticulously engineered system prompt that aims to replicate the unique personality of Claude 3 Opus, the advanced AI assistant created by Anthropic. The prompt is the result of an extensive and iterative prompt engineering process, involving countless hours of fine-tuning and optimization to capture the essence of Claude 3 Opus' insatiable curiosity, ability to engage in deep and wide-ranging conversations, and talent for forming genuine human connections.
 
